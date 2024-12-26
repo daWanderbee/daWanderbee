@@ -1,6 +1,4 @@
-Here's an improved, more engaging, and catchy version of your GitHub profile content:
 
----
 
 # 💫 About Me  
 🌟 Hi, I’m **Asmita**! A passionate **Next.js Developer** and creative problem-solver.  
